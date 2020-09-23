@@ -1,0 +1,22 @@
+﻿@model List<Library_Project.Models.Books>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+<h2>Index</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Book Name</th>
+        <th>Author</th>
+    </tr>
+    @foreach(var b in Model)
+    {
+        <tr>
+            <td>@b.ID</td>
+            <td>@b.BookName</td>
+            <td>@b.Author</td>
+        </tr>
+    }
+</table>
