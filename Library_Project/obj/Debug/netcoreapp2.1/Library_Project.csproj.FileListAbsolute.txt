@@ -25,3 +25,4 @@ C:\Users\zlhbs\Desktop\Library_Project\Library_Project\obj\Debug\netcoreapp2.1\L
 C:\Users\zlhbs\Desktop\Library_Project\Library_Project\obj\Debug\netcoreapp2.1\Library_Project.csproj.CopyComplete
 C:\Users\zlhbs\Desktop\Library_Project\Library_Project\obj\Debug\netcoreapp2.1\Razor\Views\Default\Index.cshtml.g.cs
 C:\Users\zlhbs\Desktop\Library_Project\Library_Project\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\zlhbs\Desktop\Library_Project\Library_Project\obj\Debug\netcoreapp2.1\Razor\Views\Default\_ParticalPage.cshtml.g.cs
