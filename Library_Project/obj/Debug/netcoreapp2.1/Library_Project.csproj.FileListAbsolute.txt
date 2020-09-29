@@ -27,3 +27,5 @@ C:\Users\zlhbs\Desktop\Library_Project\Library_Project\obj\Debug\netcoreapp2.1\R
 C:\Users\zlhbs\Desktop\Library_Project\Library_Project\bin\Debug\netcoreapp2.1\libman.json
 C:\Users\zlhbs\Desktop\Library_Project\Library_Project\obj\Debug\netcoreapp2.1\Razor\Views\Default\_ParticalPage.cshtml.g.cs
 C:\Users\zlhbs\Desktop\Library_Project\Library_Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NewBooks\Default.cshtml.g.cs
+C:\Users\zlhbs\Desktop\Library_Project\Library_Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zlhbs\Desktop\Library_Project\Library_Project\obj\Debug\netcoreapp2.1\Razor\Views\Default\Test.cshtml.g.cs

@@ -23,5 +23,9 @@ namespace Library_Project.Controllers
 
             return View(book);
         }
+        public IActionResult Test()
+        {
+            return View();
+        }
     }
 }
