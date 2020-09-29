@@ -5,5 +5,10 @@
 }
 
 <h5>Test</h5>
-<br />
 <div>This is the test page</div>
+<br />
+@{ 
+    var value = "<i>Zeliha BAŞTÜRK</i>" + 
+        "<p style=\"color:pink; font-weight:bold\">This is the second sentence</p>";
+}
+@Html.Raw(value)
